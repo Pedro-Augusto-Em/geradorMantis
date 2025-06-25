@@ -15,7 +15,7 @@ Um userscript para Tampermonkey que automatiza a criação de chamados no Mantis
   - Timeout de 3 segundos para captura de breadcrumbs, com mensagem de erro amigável se falhar.
 - **Automação no Mantis**:
   - Preenche os campos do Mantis: `#Categoria`(categoria), `#custom_field_26` (ambiente), `#custom_field_21` (produto), `#custom_field_9` (clientes, multi-select), `#handler_id` (usuário), `#summary` e `#description` (formato BDD).
-  - Suporta múltiplos clientes no campo `#custom_field_9`.
+  - Suporta múltiplos clientes no campo `#custom_field_9`(clientes).
 - **Melhorias de UX**:
   - Tags de clientes com texto branco sobre fundo azul claro (`#42a5f5`) para maior legibilidade.
   - Instrução: "Segure CTRL para selecionar múltiplos clientes."
