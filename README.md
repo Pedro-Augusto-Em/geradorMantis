@@ -47,11 +47,11 @@ Um userscript para Tampermonkey que automatiza a criação de chamados no Mantis
    - Ative a extensão.
 
 2. **Adicionar o Userscript**:
-   - Baixe o arquivo do script: [script.user.js](https://github.com/Pedro-Augusto-Em/geradorMantis/blob/main/script.user.js).
+   - Baixe o arquivo do script: [script.user.js](https://github.com/Pedro-Augusto-Em/geradorMantis/raw/refs/heads/main/script.user.js).
    - Abra o painel do Tampermonkey:
      - Clique no ícone do Tampermonkey na barra de ferramentas do navegador.
      - Selecione "Painel" > aba "Utilitários".
-   - Clique em "Importar de URL" e cole o URL raw do GitHub do script (ex.: `https://github.com/Pedro-Augusto-Em/geradorMantis/blob/main/script.user.js`).
+   - Clique em "Importar de URL" e cole o URL raw do GitHub do script (ex.: `https://github.com/Pedro-Augusto-Em/geradorMantis/raw/refs/heads/main/script.user.js`).
    - Alternativamente, arraste e solte o arquivo `script.user.js` baixado no painel do Tampermonkey.
    - Clique em "Instalar" ou "Salvar" no Tampermonkey.
 
