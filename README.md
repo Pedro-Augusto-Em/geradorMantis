@@ -47,16 +47,16 @@ Um userscript para Tampermonkey que automatiza a criação de chamados no Mantis
    - Ative a extensão.
 
 2. **Adicionar o Userscript**:
-   - Baixe o arquivo do script: [script.user.js](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/script.user.js).
+   - Baixe o arquivo do script: [script.user.js](https://raw.githubusercontent.com/Pedro-Augusto-Em/geradorManti/main/script.user.js).
    - Abra o painel do Tampermonkey:
      - Clique no ícone do Tampermonkey na barra de ferramentas do navegador.
      - Selecione "Painel" > aba "Utilitários".
-   - Clique em "Importar de URL" e cole o URL raw do GitHub do script (ex.: `https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/script.user.js`).
+   - Clique em "Importar de URL" e cole o URL raw do GitHub do script (ex.: `https://raw.githubusercontent.com/Pedro-Augusto-Em/geradorManti/main/script.user.js`).
    - Alternativamente, arraste e solte o arquivo `script.user.js` baixado no painel do Tampermonkey.
    - Clique em "Instalar" ou "Salvar" no Tampermonkey.
 
 3. **Verificar a Instalação**:
-   - Acesse uma URL suportada (ex.: `https://regular.escolarmanageronline.com.br/COLEGIO_EXATO`).
+   - Acesse uma URL suportada (ex.: `https://regular.escolarmanageronline.com.br/escolateste`).
    - Procure pelo botão flutuante (🦉) no canto superior direito da página.
    - Se o botão não aparecer, verifique se o Tampermonkey está ativado e se a URL corresponde às regras `@match`.
 
